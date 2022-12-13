@@ -1,0 +1,15 @@
+{
+  "name": "uru/bitrix-orm",
+  "description": "Bitrix ORM Examples",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Petrov",
+      "email": "info@uru-ru.ru"
+    }
+  ],
+  "require": {
+    "matiaspub/bx-api-docs": "dev-master"
+  }
+}
